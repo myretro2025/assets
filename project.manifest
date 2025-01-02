@@ -5849,7 +5849,7 @@
 			"md5": "e7b0bded8a6f21aaea8673436b255cb8"
 		},
 		"src/NES/Home/StartupScene.js": {
-			"md5": "9f107c1f3a3dab744ab29fd0746455a9"
+			"md5": "64c4b8f2c0e40a052d9226e7410581ce"
 		},
 		"src/NES/initForWeb.js": {
 			"md5": "d05cbbb3a0fc9c8e1f1dc79f8f2ce3df"
@@ -5894,7 +5894,7 @@
 			"md5": "e548dfcef4e525d4a8dd1d46c5203898"
 		},
 		"src/NES/tracking.js": {
-			"md5": "df0c7d5511d0916af8d2bb793429f805"
+			"md5": "33e14667f06bdc7ab0210e8e911fe5f8"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "53d1450a7a74a3dc46d40a89d258032d"
