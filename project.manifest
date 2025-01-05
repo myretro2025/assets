@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/myretro2025/assets/v1.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/myretro2025/assets/v1.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/myretro2025/assets/v1.0.0/",
-	"version" : "1",
+	"version" : "2",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -2189,7 +2189,7 @@
 			"md5": "bed8df745a3a103e32baf0fe1ea4f1b3"
 		},
 		"res/db_config/default.json": {
-			"md5": "3a47eb305fed7298fadbeb8b1b28df06"
+			"md5": "bfc7259f5d6cf364c0311c6a12516b9d"
 		},
 		"res/db_gba.txt": {
 			"md5": "be59256e9de08e339d8a240ef9d282d7"
@@ -4705,6 +4705,9 @@
 		"res/UI/background/kong.jpg": {
 			"md5": "89e2fe606c2d3402127d6b6b364c4688"
 		},
+		"res/UI/background/main_gba.jpg": {
+			"md5": "6ca7f85e1b2b9d45fd14d39ca44e3a24"
+		},
 		"res/UI/background/mame_bg.jpg": {
 			"md5": "873e39167bc52586445fd7f67c54c2ca"
 		},
@@ -5261,7 +5264,7 @@
 			"md5": "1b793cf35a7980b5374d4303396f8e4c"
 		},
 		"res/UI/StartupScene_GBA.json": {
-			"md5": "24049beb5ef8482f4974974c2ae3713a"
+			"md5": "29711c7fa03099de395c5186f08a4017"
 		},
 		"res/UI/StartupScene_IslandAdventure.json": {
 			"md5": "acaa12f7d721e97f6b18a29639bd4041"
@@ -5312,7 +5315,7 @@
 			"md5": "21e1eb7163219dc37d402e3f45a68840"
 		},
 		"res/UI/StartupScene_TankBattle.json": {
-			"md5": "a9862c8472c4348d5030929a27f8e2c6"
+			"md5": "5817e9d3169c0559e25c55c814c46468"
 		},
 		"res/UI/store/bg.png": {
 			"md5": "7f5fa633311c41b5f359ead8d6a08f4f"
@@ -5813,7 +5816,7 @@
 			"md5": "fdcd3048fa17bf4765a3ceae503da096"
 		},
 		"src/NES/Home/Home.js": {
-			"md5": "0ac61b3a3397f3705dca9d2510d8142c"
+			"md5": "8cf7fedd69422530e5d267c60079a95e"
 		},
 		"src/NES/Home/InfoRomLayer.js": {
 			"md5": "57ae70b9a8e5c560531fedc415242c61"
@@ -5837,7 +5840,7 @@
 			"md5": "94efa38a9a02e45585ffd89ae5513816"
 		},
 		"src/NES/Home/MenuLayer.js": {
-			"md5": "8745bc64295e1e8250e4586f34a9495f"
+			"md5": "a1dc4802a2a095ae2a2d7b0251d086e1"
 		},
 		"src/NES/Home/Promo/PromoLayer.js": {
 			"md5": "243823cf013d18652b0fe31709c10b60"
@@ -5894,7 +5897,7 @@
 			"md5": "e548dfcef4e525d4a8dd1d46c5203898"
 		},
 		"src/NES/tracking.js": {
-			"md5": "33e14667f06bdc7ab0210e8e911fe5f8"
+			"md5": "d455cde4c7ed09d377183487cb0ed471"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "53d1450a7a74a3dc46d40a89d258032d"
