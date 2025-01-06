@@ -4,14 +4,14 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/myretro2025/assets/v1.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/myretro2025/assets/v1.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/myretro2025/assets/v1.0.0/",
-	"version" : "6",
+	"version" : "7",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
 			"md5": "497362b8c3f6d2459f91d36756a5c0c9"
 		},
 		"main.js": {
-			"md5": "828a7ceddef0bf3cd1042523f2d7894e"
+			"md5": "a698dd7d722f020267b5fcf4b84775d2"
 		},
 		"project.json": {
 			"md5": "86b5e8c61afbce9aadb12ad894dd3c91"
