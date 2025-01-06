@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/myretro2025/assets/v1.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/myretro2025/assets/v1.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/myretro2025/assets/v1.0.0/",
-	"version" : "3",
+	"version" : "4",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -5327,7 +5327,7 @@
 			"md5": "ba2215806ad61927a16e9cafb9a27db5"
 		},
 		"res/UI/stores.plist": {
-			"md5": "75feaabbe78347ef0f28836051c309a8"
+			"md5": "cc30258f2d70e7a5bc7028658a8e8717"
 		},
 		"res/UI/stores.png": {
 			"md5": "ba2215806ad61927a16e9cafb9a27db5"
@@ -5897,7 +5897,7 @@
 			"md5": "e548dfcef4e525d4a8dd1d46c5203898"
 		},
 		"src/NES/tracking.js": {
-			"md5": "d22f666f6157a6420375609e1ec31121"
+			"md5": "a4b10f2f30dd0af75570081e4b10d45b"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "53d1450a7a74a3dc46d40a89d258032d"
