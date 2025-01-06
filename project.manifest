@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/myretro2025/assets/v1.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/myretro2025/assets/v1.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/myretro2025/assets/v1.0.0/",
-	"version" : "4",
+	"version" : "5",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -5810,7 +5810,7 @@
 			"md5": "b48fd9254ea95d7c5ab83dc7df5d60d9"
 		},
 		"src/NES/gamedata.js": {
-			"md5": "c17f98a8b84e6b468728bac17b7cb62c"
+			"md5": "aaf29307b4f66524e0e0629cc748cb91"
 		},
 		"src/NES/Home/FindROMLayer.js": {
 			"md5": "fdcd3048fa17bf4765a3ceae503da096"
