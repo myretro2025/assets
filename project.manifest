@@ -4,14 +4,14 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/myretro2025/assets/v1.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/myretro2025/assets/v1.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/myretro2025/assets/v1.0.0/",
-	"version" : "7",
+	"version" : "8",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
 			"md5": "497362b8c3f6d2459f91d36756a5c0c9"
 		},
 		"main.js": {
-			"md5": "a698dd7d722f020267b5fcf4b84775d2"
+			"md5": "3881c3a0abf6fa725fc627bffe3abf77"
 		},
 		"project.json": {
 			"md5": "86b5e8c61afbce9aadb12ad894dd3c91"
@@ -2189,7 +2189,7 @@
 			"md5": "bed8df745a3a103e32baf0fe1ea4f1b3"
 		},
 		"res/db_config/default.json": {
-			"md5": "bfc7259f5d6cf364c0311c6a12516b9d"
+			"md5": "95ce341a6f429a98a513d2839ca6242f"
 		},
 		"res/db_gba.txt": {
 			"md5": "be59256e9de08e339d8a240ef9d282d7"
@@ -5810,7 +5810,7 @@
 			"md5": "b48fd9254ea95d7c5ab83dc7df5d60d9"
 		},
 		"src/NES/gamedata.js": {
-			"md5": "aaf29307b4f66524e0e0629cc748cb91"
+			"md5": "5e722028ac463408cec934ca5dca36e1"
 		},
 		"src/NES/Home/FindROMLayer.js": {
 			"md5": "fdcd3048fa17bf4765a3ceae503da096"
@@ -5897,7 +5897,7 @@
 			"md5": "e548dfcef4e525d4a8dd1d46c5203898"
 		},
 		"src/NES/tracking.js": {
-			"md5": "a4b10f2f30dd0af75570081e4b10d45b"
+			"md5": "32a9985ee227acee626fb4b03b9347b1"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "53d1450a7a74a3dc46d40a89d258032d"
